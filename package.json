@@ -1,0 +1,24 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "HelloNode Node.JS app on Docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkeayes/HelloNode.git"
+  },
+  "keywords": [
+    "docker",
+    "node"
+  ],
+  "author": "rkeayes@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkeayes/HelloNode/issues"
+  },
+  "homepage": "https://github.com/rkeayes/HelloNode#readme"
+}
