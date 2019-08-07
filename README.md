@@ -1,9 +1,11 @@
 # HelloNode
 Hello Node World!
 
+This is a guide for creating a Dockerfile
+https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
+
 There is a guide to markdown here
 https://guides.github.com/features/mastering-markdown/
-
 
 This is **bold**
 This is *italic*
