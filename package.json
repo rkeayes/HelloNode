@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node app.js",
+    "express": "node express/app.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/rkeayes/HelloNode/issues"
   },
-  "homepage": "https://github.com/rkeayes/HelloNode#readme"
+  "homepage": "https://github.com/rkeayes/HelloNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
