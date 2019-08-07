@@ -1,6 +1,12 @@
 # HelloNode
 Hello Node World!
 
+This is a super simple app for playing around with Docker
+
+It uses a JS app.js file
+There is also an express-based TS app under "app", which could also be used
+
+
 This is a guide for creating a Dockerfile
 https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 
